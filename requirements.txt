@@ -1,0 +1,4 @@
+transformers
+datasets
+torch
+langgraph  # when integrating with LangGraph-style logic or simulation

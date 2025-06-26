@@ -1,0 +1,14 @@
+2025-06-26 06:57:49,221 - [InferenceNode] Raw response: Positive, 95%
+2025-06-26 06:57:49,232 - [InferenceNode] Label: Positive | Confidence: 0.95
+2025-06-26 06:58:11,813 - [InferenceNode] Raw response: Negative, 75%
+2025-06-26 06:58:11,814 - [InferenceNode] Label: Negative | Confidence: 0.75
+2025-06-26 06:58:11,814 - [ConfidenceCheckNode] Confidence too low. Triggering fallback...
+2025-06-26 06:58:17,258 - [FallbackNode] Final label after user correction: Negative
+2025-06-26 06:59:02,798 - [InferenceNode] Raw response: Positive, 95%
+2025-06-26 06:59:02,804 - [InferenceNode] Label: Positive | Confidence: 0.95
+2025-06-26 07:00:53,235 - [InferenceNode] Raw response: Positive, 90%
+2025-06-26 07:00:53,244 - [InferenceNode] Label: Positive | Confidence: 0.9
+2025-06-26 07:01:32,195 - [InferenceNode] Raw response: Positive (67%)
+2025-06-26 07:01:32,195 - [InferenceNode] Label: Positive | Confidence: 0.67
+2025-06-26 07:01:32,195 - [ConfidenceCheckNode] Confidence too low. Triggering fallback...
+2025-06-26 07:01:37,205 - [FallbackNode] Final label after user correction: Positive
